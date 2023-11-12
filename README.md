@@ -2,7 +2,7 @@
 
 Suited Allays dress up your allays. 
 
-**Suited Allay uses and requires Optifine custom and random textures to function.** Other resource packs that also use this feature may interfere with this resource pack.
+**Suited Allay uses and requires Optifine custom and random textures to function.** Other resource packs that also modifies allays use this feature may conflict with this resource pack.
 
 Please check out the gallery to check out some allay models. https://modrinth.com/resourcepack/suitedallays/gallery
 
