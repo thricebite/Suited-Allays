@@ -2,13 +2,13 @@
 
 This resource pack personalizes your helpful allay companions by making them wear clothes! This was inspired by these [Minecraft skins](https://namemc.com/profile/thricebite.1) and the Pandaloon puppy costumes.
 
-**Suited Allay uses and requires Optifine custom and random textures to function.** Other resource packs that also modifies allays using Optifine features *might* conflict with this resource pack. 
+**Suited Allays uses and requires Optifine custom and random textures to function.** Other resource packs that also modifies allays using Optifine features *might* conflict with this resource pack. 
 Here are some mods to enable Optifine custom and random texture features: 
 - Entity Texture Features: https://modrinth.com/mod/entitytexturefeatures
 - Optifine: https://www.optifine.net/home
 
 Please check out the [gallery](https://modrinth.com/resourcepack/suitedallays/gallery
-) to check out some allay models.
+) to see what to rename your allays to, to get the corresponding skin.
 
 <details>
 <summary>Click here to see the Santa Allay model</summary>
